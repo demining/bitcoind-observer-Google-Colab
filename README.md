@@ -17,3 +17,10 @@ This demo is based on **not-yet-released** Bitcoin Core code added in PR
 
 The bitcoind-observer is written in Rust and open source. Code can be found on
 [github.com/0xb10c/bitcoind-observer](https://github.com/0xb10c/bitcoind-observer).
+
+----
+
+|  | Donation Address |
+| --- | --- |
+| ♥ __BTC__ | 1Lw2kh9WzCActXSGHxyypGLkqQZfxDpw8v |
+| ♥ __ETH__ | 0xaBd66CF90898517573f19184b3297d651f7b90bf |
